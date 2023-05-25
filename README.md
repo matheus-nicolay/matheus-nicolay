@@ -7,7 +7,7 @@
 Sou um {SysAdmin} na [@staybox](https://www.staybox.com.br/).
 
 - 🔭 🖥️ **SysAdmin**
-- 📚 ███████▒▒▒ 70% **Ciência da Computação (IFFar - Campus FW)**
+- 📚 ████████▒▒ 80% **Ciência da Computação (IFFar - Campus FW)**
 - 📚 ██████████ 100% **Técnico em Informática (IFFar - Campus FW)**
 - 🌱 Aprendendo sobre DevOps/Platform Engineering/SRE
 
