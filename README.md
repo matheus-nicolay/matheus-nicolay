@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, sou o Matheus!
 
-<!--
-**matheus-nicolay/matheus-nicolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheus-nicolay)](https://github.com/matheus-nicolay)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-nicolay/)](https://www.linkedin.com/in/matheus-nicolay/)
 
-Here are some ideas to get you started:
+### Sobre
+Sou um {SysAdmin} na [@staybox](https://www.staybox.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 🖥️ **SysAdmin**
+- 📚 ███████▒▒▒ 70% **Ciência da Computação (IFFar - Campus FW)**
+- 📚 ██████████ 100% **Técnico em Informática (IFFar - Campus FW)**
+- 🌱 Aprendendo sobre DevOps/Platform Engineering/SRE
+
+**Linguagens e ferramentas:**  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,gitlab,kubernetes,docker,ansible,grafana,py,django" />
+  </a>
+</p>
