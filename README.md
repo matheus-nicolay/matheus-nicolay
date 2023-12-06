@@ -6,10 +6,11 @@
 ### Sobre
 Sou um {SysAdmin} na [@staybox](https://www.staybox.com.br/).
 
+Trabalhando com projetos nas áreas: **DevOps** | **Platform Engineering** | **SRE**
+
 - 🔭 🖥️ **SysAdmin**
 - 📚 ████████▒▒ 80% **Ciência da Computação (IFFar - Campus FW)**
 - 📚 ██████████ 100% **Técnico em Informática (IFFar - Campus FW)**
-- 🌱 Aprendendo sobre DevOps/Platform Engineering/SRE
 
 **Linguagens e ferramentas:**  
 
