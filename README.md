@@ -18,3 +18,7 @@ Sou um {SysAdmin} na [@staybox](https://www.staybox.com.br/).
     <img src="https://skillicons.dev/icons?i=linux,gitlab,kubernetes,docker,ansible,grafana,py,django" />
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nicolay&layout=compact&langs_count=8)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-nicolay)](https://github.com/anuraghazra/github-readme-stats)
+
