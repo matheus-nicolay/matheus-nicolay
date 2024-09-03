@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-nicolay/)](https://www.linkedin.com/in/matheus-nicolay/)
 
 ### Sobre
-Sou um {SysAdmin} na [@staybox](https://www.staybox.com.br/).
+Sou um {DevOps Engineer} na [Stoque](https://stoque.com.br).
 
 Trabalhando com projetos nas áreas: **DevOps** | **Platform Engineering** | **SRE**
 
